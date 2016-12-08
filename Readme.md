@@ -8,7 +8,7 @@ Specifically, Script# lets you leverage the experience of C# (intellisense, buil
 
 You can even use Script# to work against other existing frameworks and APIs such as jQuery, jQuery plugins and Knockout, and can be extended to work against other existing script.
 
-Script# requires .NET 4.0 and Visual Studio 2012. You can also use one of the free Express tools instead such as [Visual Studio 2012 Express for Web](http://www.microsoft.com/visualstudio/eng/downloads#d-express-web) or [Visual Studio 2012 Express for Windows Desktop](http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-desktop).
+Script# requires .NET 4.0 and Visual Studio 2012 (VS 2015 vsix can also be built). You can also use one of the free Express tools instead such as [Visual Studio 2012 Express for Web](http://www.microsoft.com/visualstudio/eng/downloads#d-express-web) or [Visual Studio 2012 Express for Windows Desktop](http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-desktop).
 
 ## More Information ##
 The following set of links are relevant if you're using Script# and want to learn more or ask questions, or stay up-to-date.
